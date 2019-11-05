@@ -1,0 +1,14 @@
+{
+  "name": "new-app",
+  "version": "0.1.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Xavior Pautin",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.0.1"
+  }
+}
